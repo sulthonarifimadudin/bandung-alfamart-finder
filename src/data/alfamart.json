@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nama": "Alfamart Dipatiukur",
+    "alamat": "Jl. Dipatiukur No.50, Bandung",
+    "lat": -6.8895,
+    "lng": 107.6186
+  },
+  {
+    "id": 2,
+    "nama": "Alfamart Dago",
+    "alamat": "Jl. Ir. H. Juanda No.120, Bandung",
+    "lat": -6.8986,
+    "lng": 107.6120
+  },
+  {
+    "id": 3,
+    "nama": "Alfamart Buah Batu",
+    "alamat": "Jl. Buah Batu No.200, Bandung",
+    "lat": -6.9380,
+    "lng": 107.6230
+  },
+  {
+    "id": 4,
+    "nama": "Alfamart Pasteur",
+    "alamat": "Jl. Dr. Djunjunan No.15, Bandung",
+    "lat": -6.8935,
+    "lng": 107.5945
+  },
+  {
+    "id": 5,
+    "nama": "Alfamart Cihampelas",
+    "alamat": "Jl. Cihampelas No.88, Bandung",
+    "lat": -6.8975,
+    "lng": 107.6050
+  },
+  {
+    "id": 6,
+    "nama": "Alfamart Setiabudi",
+    "alamat": "Jl. Dr. Setiabudi No.45, Bandung",
+    "lat": -6.8720,
+    "lng": 107.6080
+  },
+  {
+    "id": 7,
+    "nama": "Alfamart Soekarno-Hatta",
+    "alamat": "Jl. Soekarno-Hatta No.350, Bandung",
+    "lat": -6.9420,
+    "lng": 107.6350
+  },
+  {
+    "id": 8,
+    "nama": "Alfamart Ahmad Yani",
+    "alamat": "Jl. Ahmad Yani No.100, Bandung",
+    "lat": -6.9210,
+    "lng": 107.6150
+  }
+]
